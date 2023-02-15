@@ -3,6 +3,7 @@
 This project creates a Real Estate Prices Prediction model for tokyo.
 
 1.Dataset for this project can be accessed via below URL:-
+
 https://www.kaggle.com/datasets/nishiodens/japan-real-estate-transaction-prices
 
 ※Note:The above url contains Real estate prices dataset for japan.But this project 
