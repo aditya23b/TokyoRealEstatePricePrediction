@@ -14,7 +14,7 @@ prefecture.
 containing real state prices data for tokyo.After execution of this notebook, 
 'save_cleaned.csv' file is generated.
 
-3.Next execute 'Real estate prices prediction.ipynb' which will generated the pickle model 
+3.Next execute 'Real estate prices prediction.ipynb' which will generate the pickle model 
 for prediction of real estate prices in tokyo.
 
 ※Note:4 algorithms (Random Forests, SVR,K Nearest Neighbors and DecisionTrees)are compared 
