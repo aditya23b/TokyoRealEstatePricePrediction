@@ -18,5 +18,8 @@ containing real state prices data for tokyo.After execution of this notebook,
 for prediction of real estate prices in tokyo.
 
 ※Note:4 algorithms (Random Forests, SVR,K Nearest Neighbors and DecisionTrees)are compared 
-for prediction.Best results are achieved with Random Forests resulting in 18.8% mean absolute
+for prediction.Best results are achieved with Random Forests resulting in 20% mean absolute
 precentage error.
+
+This prediction model has been deployed as a flask web application.Accesible via below URL.
+https://realestatepriceprediction.onrender.com/
